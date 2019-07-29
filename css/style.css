@@ -1,0 +1,11 @@
+#nav-bar {
+    position: fixed;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #nav-bar {
+      display: columns;
+      position: fixed;
+    }
+  }
